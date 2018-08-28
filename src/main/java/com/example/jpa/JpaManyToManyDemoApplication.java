@@ -25,6 +25,7 @@ public class JpaManyToManyDemoApplication {
 		SpringApplication.run(JpaManyToManyDemoApplication.class, args);
 		System.out.println("pyj");
 		System.out.println("pyj111");
+        System.out.println("pyj222");
 	}
 
 	/*
